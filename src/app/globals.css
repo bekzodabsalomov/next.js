@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.br{
+      border: solid 5px aqua;
+      border-radius:  8px;
+}
